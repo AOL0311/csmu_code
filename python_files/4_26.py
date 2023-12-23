@@ -20,4 +20,3 @@ if 0 < a < b < 10000:
 
 else:
     print("Requirement: 0 < a < b < 10000")
-    continue
